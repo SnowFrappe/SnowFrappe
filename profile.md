@@ -1,11 +1,13 @@
 # Profile
 
 ## PS/CP
+- [Algospot](https://www.algospot.com/user/profile/181949)
 - [AtCoder](https://atcoder.jp/users/SnowFrappe)
 - [BOJ](https://www.acmicpc.net/user/silvercube)
     - [solved.ac](https://solved.ac/profile/silvercube)
-- [CodeUp](https://codeup.kr/userinfo.php?user=SilverCube)
 - [Codeforces](https://codeforces.com/profile/SnowFrappe)
+- [CodeUp](https://codeup.kr/userinfo.php?user=SilverCube)
+- [Jungol](https://jungol.co.kr/account/90104)
 
 ## Rhythm Game
 - [Cytoid](https://cytoid.io/profile/silvercube)
